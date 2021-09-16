@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNAzure-NetCore-WebAPI", "DNAzure-NetCore-WebAPI.csproj", "{BA968CF3-2917-4143-8C15-F2EA4E3A5865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA968CF3-2917-4143-8C15-F2EA4E3A5865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA968CF3-2917-4143-8C15-F2EA4E3A5865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA968CF3-2917-4143-8C15-F2EA4E3A5865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA968CF3-2917-4143-8C15-F2EA4E3A5865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {032536B1-E576-4183-B8BB-813E6FB8B164}
+	EndGlobalSection
+EndGlobal
